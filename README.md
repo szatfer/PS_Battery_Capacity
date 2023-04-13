@@ -1,2 +1,3 @@
 # PS_Battery_Capacity
-This Powershell script retrieves the laptop battery data, puts it in a file and calculates its real capacity.
+This script exports power config data to xml and calculates the battery real capacity.
+Then output into a file, when finished open the file browser
